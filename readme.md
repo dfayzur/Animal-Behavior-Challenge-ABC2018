@@ -1,4 +1,4 @@
-Code of the winning entry to the [Animal Behavior Challenge (ABC2018) for understanding animal behavior](https://competitions.codalab.org/competitions/16283). Our approach is described in [our paper](https://github.com/dfayzur/Animal-Behavior-Challenge-ABC2018/doc/ABC2018_Ensemble-Learning-Applied-to-Classify-GPS-Trajectories-of-Birds-into-Male-or-Female.pdf).
+Code of the winning entry to the [Animal Behavior Challenge (ABC2018) for understanding animal behavior](https://competitions.codalab.org/competitions/16283). Our approach is described in [our paper](https://github.com/dfayzur/Animal-Behavior-Challenge-ABC2018/blob/master/doc/ABC2018_Ensemble-Learning-Applied-to-%20Classify-GPS-Trajectories-of-Birds-into-Male-or-Female.pdf).
 
 ## Dependencies
 
