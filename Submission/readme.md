@@ -1,0 +1,1 @@
+This folder contains final output to submit in the competitions platform.
